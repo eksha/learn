@@ -1,3 +1,0 @@
-# learn
-We are learning...
-blah and blah
